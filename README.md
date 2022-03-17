@@ -8,6 +8,7 @@ final grade.
 ### Prerequisites
 
 interactive;
+exercise；
 
 #### Developing tool:
 1. p5.js
