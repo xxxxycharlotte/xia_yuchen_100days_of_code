@@ -1,4 +1,3 @@
-
 var x=200;
 var y=200;
 var Vx=2;
