@@ -16,10 +16,11 @@ exercise；
 3. Visual studio code
 
 #### Developing Languages:
-1. java/processing
+1. java
 2. p5.js
 3. javascript
 4. python
+5. processing
 
 
 ### Library
